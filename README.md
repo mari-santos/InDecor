@@ -12,6 +12,6 @@ Project is created with:
 * HTML
 * CSS
 
-##Challenge Objectives
+## Challenge Objectives
 
 To exercise the concepts seen in the video lesson, best practices, and get to know the tools used in the front-end.
